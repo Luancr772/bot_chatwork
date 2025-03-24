@@ -6,6 +6,7 @@ import os
 # API Chatwork
 API_TOKEN = "506c4076258b499cace5603ecba1a410"
 ROOM_ID = "380291120"
+USER_ID = "1452981"  # ID người dùng cần mention
 
 # Đọc tin nhắn từ file
 def get_message():
@@ -19,6 +20,7 @@ def get_message():
 def send_message():
     MESSAGE = get_message()
     if MESSAGE:
+        MESSAGE = f"[To:{USER_ID}] {MESSAGE}"  # Gắn thẻ người dùng
         headers = {"X-ChatWorkToken": API_TOKEN}
         params = {"body": MESSAGE}
         
