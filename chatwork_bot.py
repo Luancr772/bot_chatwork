@@ -20,7 +20,6 @@ def get_message():
 def send_message():
     MESSAGE = get_message()
     if MESSAGE:
-        MESSAGE = f"[To:{USER_ID}] {MESSAGE}"  # Gắn thẻ người dùng
         headers = {"X-ChatWorkToken": API_TOKEN}
         params = {"body": MESSAGE}
         
@@ -31,7 +30,7 @@ def send_message():
     else:
         print("Không có tin nhắn để gửi hôm nay.")
 
-schedule.every().day.at("04:50").do(send_message)
+schedule.every().day.at("04:55").do(send_message)
 
 print("Bot Chatwork đang chạy...")
 while True:
