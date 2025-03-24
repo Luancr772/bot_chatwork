@@ -30,7 +30,7 @@ def send_message():
     else:
         print("Không có tin nhắn để gửi hôm nay.")
 
-schedule.every().day.at("04:55").do(send_message)
+schedule.every().day.at("11:01").do(send_message)
 
 print("Bot Chatwork đang chạy...")
 while True:
