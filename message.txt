@@ -1,10 +1,10 @@
 [To:1452981]高田優人
-本日（03月24日）の日報を共有いたします。
-https://tools.splus-software.com/redmine/issues/176342
+本日（03月25日）の日報を共有いたします。
+https://tools.splus-software.com/redmine/issues/176530
 ---------------------------------------------------------------------
 1. 本日のタスク
 
-#174833 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 進行中
+#174834 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 進行中
 
 => アプリの環境設定が完了しました
 
@@ -13,7 +13,7 @@ https://tools.splus-software.com/redmine/issues/176342
 => App Storeから返されたエラー・警告・メッセージの調査が完了しました
 
 2. 次のプラン
-#174833 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 進行中
+#174834 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 進行中
 #174839 :  [deImage][IOS][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1)	 : 進行中
 
 3. 問題
