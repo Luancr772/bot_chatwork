@@ -1,6 +1,6 @@
 [To:1452981]高田優人
-本日（03月27日）の日報を共有いたします。
-https://tools.splus-software.com/redmine/issues/176837
+本日（03月28日）の日報を共有いたします。
+https://tools.splus-software.com/redmine/issues/177008
 ---------------------------------------------------------------------
 1. 本日のタスク
 
@@ -8,7 +8,7 @@ https://tools.splus-software.com/redmine/issues/176837
 
 => アプリの環境設定が完了しました
 
-#174839 :  [deImage][IOS][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1)	 : 完了
+#174840 :  [deImage][IOS] - App Storeへのデプロイ (1)	 : 進行中
 
 => App Storeから返されたエラー・警告・メッセージの調査が完了しました
 
