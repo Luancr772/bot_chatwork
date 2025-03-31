@@ -1,20 +1,19 @@
 [To:1452981]高田優人
-本日（03月28日）の日報を共有いたします。
-https://tools.splus-software.com/redmine/issues/177008
+本日（03月31日）の日報を共有いたします。
+https://tools.splus-software.com/redmine/issues/177125
 ---------------------------------------------------------------------
 1. 本日のタスク
 
-#174834 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 進行中
+#174834 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 完了
 
-=> アプリの環境設定が完了しました
+=> Google のビジネスアカウントの承認待ちです。
 
-#174840 :  [deImage][IOS] - App Storeへのデプロイ (1)	 : 進行中
+#174840 :  [deImage][IOS] - App Storeへのデプロイ (1)	 : 完了
 
-=> App Storeから返されたエラー・警告・メッセージの調査が完了しました
+=> App Store にデプロイしました。
 
 2. 次のプラン
-#174834 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 進行中
-#174840 :  [deImage][IOS] - App Storeへのデプロイ (1)	 : 進行中
+#174845 : [deImage][Android] - CH Playへのデプロイ | 進行中
 
 3. 問題
 なし
