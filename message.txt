@@ -1,19 +1,19 @@
 [To:1452981]高田優人
-本日（03月31日）の日報を共有いたします。
-https://tools.splus-software.com/redmine/issues/177125
+本日（04月01日）の日報を共有いたします。
+https://tools.splus-software.com/redmine/issues/177320
 ---------------------------------------------------------------------
 1. 本日のタスク
 
-#174834 : [deImage][Android][Checking] - ライブラリのアップグレードと環境設定の時にデグレードを確認 (1) | 完了
+#174835 : [deImage][Android] - CH Playへのデプロイ | 進行中
 
-=> Google のビジネスアカウントの承認待ちです。
+=> アカウントの本人確認をお待ちください。
 
-#174840 :  [deImage][IOS] - App Storeへのデプロイ (1)	 : 完了
-
-=> App Store にデプロイしました。
+#177207 : [INVESTIGATE] - Change domain yellowrhino44.sakura.ne.jp -> occupational-healthcare.com : 進行中
+=> 現在、ドメインの移行を行っております。
 
 2. 次のプラン
-#174845 : [deImage][Android] - CH Playへのデプロイ | 進行中
+#174835 : [deImage][Android] - CH Playへのデプロイ | 進行中
+#177207 : [INVESTIGATE] - Change domain yellowrhino44.sakura.ne.jp -> occupational-healthcare.com : 進行中
 
 3. 問題
-なし
+本人確認を行う際には、ご連絡いただけますでしょうか。
