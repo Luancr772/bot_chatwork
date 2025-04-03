@@ -1,18 +1,1 @@
-[To:1452981]高田優人
-本日（04月02日）の日報を共有いたします。
-https://tools.splus-software.com/redmine/issues/177459
----------------------------------------------------------------------
-1. 本日のタスク
 
-#174835 : [deImage][Android] - CH Playへのデプロイ | 進行中
-
-=> アカウントの本人確認をお待ちください。
-
-#177207 : [INVESTIGATE] - Change domain yellowrhino44.sakura.ne.jp -> occupational-healthcare.com : 完了
-=> 現在、ドメインの移行を行っております。
-
-2. 次のプラン
-#174835 : [deImage][Android] - CH Playへのデプロイ | 進行中
-
-3. 問題
-本人確認を行う際には、ご連絡いただけますでしょうか。
